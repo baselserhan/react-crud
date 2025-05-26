@@ -4,7 +4,7 @@
       "name": "Basel Serhan",
       "username": "basel_serhan",
       "email": "basel@gmail.com",
-      "phone": "Ut nulla adipisicing",
+      "phone": "12345678",
       "website": "Qui veritatis fugiat",
       "address": {
         "city": "Ut ea nihil anim ips",
@@ -18,25 +18,6 @@
         "bs": "Quasi odit necessita"
       },
       "id": 1
-    },
-    {
-      "name": "Aut dolore atque quo",
-      "username": "Enim magni commodi c",
-      "email": "Quo sint itaque aut ",
-      "phone": "Doloremque excepteur",
-      "website": "Voluptate quas sit ",
-      "address": {
-        "city": "Fugiat et esse magna",
-        "street": "Esse minus commodi ",
-        "suite": "Rerum qui officia ne",
-        "zipcode": "Ad aliquid ut sed do"
-      },
-      "company": {
-        "name": "Consectetur consequa",
-        "catchPhrase": "Est non ad sunt neq",
-        "bs": "Mollit dolor autem m"
-      },
-      "id": 2
     },
     {
       "name": "Laboriosam eveniet",
@@ -94,6 +75,63 @@
         "bs": "Ipsum esse aut volu"
       },
       "id": 5
+    },
+    {
+      "name": "John Doe",
+      "username": "Voluptas iure volupt",
+      "email": "Rerum dolore atque d",
+      "phone": "Vel incidunt eiusmo",
+      "website": "Et qui eligendi nece",
+      "address": {
+        "city": "Qui id culpa tempor",
+        "street": "Tempore quod hic co",
+        "suite": "Dolor dolores quisqu",
+        "zipcode": "Cumque rerum sunt p"
+      },
+      "company": {
+        "name": "Quia id est et labo",
+        "catchPhrase": "Do reprehenderit ut",
+        "bs": "Ut consequatur Sunt"
+      },
+      "id": 6
+    },
+    {
+      "name": "Tamer Kilani",
+      "username": "Anim non et in ducim",
+      "email": "Beatae officiis prae",
+      "phone": "Assumenda laboriosam",
+      "website": "www.tamerkilani.com",
+      "address": {
+        "city": "Eaque facere volupta",
+        "street": "Ut laborum Tempor r",
+        "suite": "Molestiae optio aut",
+        "zipcode": "Repellendus Et quos"
+      },
+      "company": {
+        "name": "Beatae esse eu solut",
+        "catchPhrase": "Laudantium officia ",
+        "bs": "Natus qui nulla even"
+      },
+      "id": 7
+    },
+    {
+      "name": "Dolor fugiat quia do",
+      "username": "Ipsa voluptate qui ",
+      "email": "Atque reprehenderit",
+      "phone": "Maxime vero esse min",
+      "website": "Mollit omnis omnis e",
+      "address": {
+        "city": "Impedit magni modi ",
+        "street": "Vero excepteur elit",
+        "suite": "Aperiam quia odit it",
+        "zipcode": "In qui nostrum magni"
+      },
+      "company": {
+        "name": "Quod dolore aliquip ",
+        "catchPhrase": "Est commodo magnam u",
+        "bs": "In vitae labore eu l"
+      },
+      "id": 8
     }
   ]
 }
