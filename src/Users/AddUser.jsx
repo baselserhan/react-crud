@@ -1,5 +1,5 @@
 import axios from "axios";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { toast } from "react-toastify";
 
 const initialUserInfo = {
@@ -23,8 +23,6 @@ const initialUserInfo = {
 
 const AddUser = (props) => {
   const [userInfo, setUserInfo] = useState(initialUserInfo);
-
-  useEffect(() => {}, []);
 
   const addNewUser = async () => {
     try {
